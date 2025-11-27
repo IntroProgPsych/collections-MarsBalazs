@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21854464)
 # Advanced Python Practice — Data Structures, Scope & `match`
 
 This assignment is meant for students who to explore more Python features:
@@ -246,7 +247,7 @@ You can:
 * remove pairs
 
 More details:
-👉 [https://www.w3schools.com/python/python_dictionaries.asp](https://www.w3schools.com/python/python_dictionaries.asp)
+👉 [https://www.w3schools.com/python/python_dictionaries.asp][def]
 
 ---
 
@@ -271,7 +272,7 @@ Ask the user for a country name and print the function’s result.
 
 **Relevant documentation:**
 
-* Dictionaries: [https://www.w3schools.com/python/python_dictionaries.asp](https://www.w3schools.com/python/python_dictionaries.asp)
+* Dictionaries: [https://www.w3schools.com/python/python_dictionaries.asp][def]
 
 #### How to solve it (step by step):
 
@@ -439,3 +440,6 @@ You’re practicing:
 4. Don’t worry if you don’t finish everything in one sitting — these are bonus/advanced topics meant to help you grow beyond the core curriculum.
 
 If you get stuck on a particular idea, go back to the relevant section and link, and try to understand *one small piece at a time* before returning to the code.
+
+
+[def]: https://www.w3schools.com/python/python_dictionaries.asp
